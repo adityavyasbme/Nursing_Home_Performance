@@ -59,7 +59,7 @@ I matched both the datasets to check for inconsistency.
 - To study the correlation between features and facility rating, Lasso CV Regression is used to find top ‘n’ features that affect the individual ratings. (n=10)
 - The given data is studied and can be visualized with the Heatmap 
 
-[Heatmap](heatmap.png)
+![Heatmap](https://github.com/adityavyasbme/Nursing_Home_Performance/blob/master/heatmap.png)
 
 ### Insights
 - The text in red, blue, and brown are features that I believe might be correlated to each other in some way. Therefore, it can be used as a primary general classification to validate our results. We can make more groups for validation based on real-world experience.
