@@ -1,4 +1,9 @@
 # Nursing Home Performance
+![](https://img.shields.io/badge/python-3.7-blue) 
+![](https://img.shields.io/badge/scikit--learn-0.23.1-blue)
+![](https://img.shields.io/badge/pandas-1.0.5-blue)
+![](https://img.shields.io/badge/seaborn-0.10.1-blue)
+![](https://img.shields.io/github/license/adityavyasbme/Nursing_Home_Performance)
 
 This is a data analysis project focusing on finding a correlation between Nursing Home's Star Rating (Given by Government), and it's actual performance based on the data they reported.
 
